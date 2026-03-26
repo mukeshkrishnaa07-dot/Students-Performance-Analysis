@@ -4,7 +4,7 @@ Dataset :
 
 Objectives :
 
-1,To generate a dataset of students using Python libraries like NumPy, Pandas, and Faker.
+1.To generate a dataset of students using Python libraries like NumPy, Pandas, and Faker.<br>
 2,To analyze student performance by calculating:
 Total marks
 Average marks
