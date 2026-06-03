@@ -198,3 +198,10 @@ Overall, the project serves as a strong foundation for educational data analytic
 **Mukesh Krishna**  
 BCA (AI & ML) Student  
 Python | Java | Data Analytics | UI/UX | Web Development
+
+
+#Output
+<img width="586" height="475" alt="WhatsApp Image 2026-06-03 at 12 01 46 PM" src="https://github.com/user-attachments/assets/50a355c7-938c-47cf-a29c-7830e602b514" />
+<img width="761" height="553" alt="WhatsApp Image 2026-06-03 at 12 01 46 PM (1)" src="https://github.com/user-attachments/assets/9d39a2da-14ce-4aed-99bc-9874df4b93b4" />
+<img width="750" height="589" alt="WhatsApp Image 2026-06-03 at 12 01 45 PM" src="https://github.com/user-attachments/assets/5a4a9896-d8e1-48d8-a50b-e5893d2abbf2" />
+
